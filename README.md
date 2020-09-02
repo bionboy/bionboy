@@ -36,3 +36,4 @@
 <a href="https://fb.com/luke floden" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="luke floden" height="30" width="30" /></a>
 <a href="https://instagram.com/fried__plantains" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="fried__plantains" height="30" width="30" /></a>
 </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bionboy" alt="bionboy" /> </p>
