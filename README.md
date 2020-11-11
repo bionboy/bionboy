@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Luke</h1>
 <h3 align="center">A passionate (machine) learner from Louisville, Kentucky</h3>
 
-- 🔭 I’m currently a [Teachers Assistant](at UofL)
+- 🔭 I’m currently a **Master Student** and **Teachers Assistant** at UofL
 
-- 🌱 I’m currently learning **Pytorch**
+- 🌱 I’m currently learning **Pytorch Lightning**
 
 - 👯 I’m looking to collaborate on **anything**
 
 - 🤝 I’m looking for help with **a machine learning career**
 
-- 👨‍💻 All of my projects are available at [lukefloden.me](lukefloden.me)
+- 👨‍💻 All of my projects are available at [lukefloden.me](http://www.lukefloden.me)
 
-- 📝 I might write on [https://dev.to/bionboy](https://dev.to/bionboy)
+- 📝 I might write on [dev.to](https://dev.to/bionboy)
 
 - 💬 Ask me about **C code for Operating systems (Im a TA for that class)**
 
@@ -20,10 +20,15 @@
 - ⚡ Fun fact **My music has been distributed on cassette tapes**
 
 ### Blogs posts
+<a href="https://dev.to/bionboy">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Luke Floden's DEV Profile" height="60" width="60">
+</a>
+
 <!-- BLOG-POST-LIST:START -->
+[Deep learning on "the iris data-set" in Julia](https://dev.to/bionboy/deep-learning-on-the-iris-data-set-in-julia-3pbe)
 <!-- BLOG-POST-LIST:END -->
 
-<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bionboy&layout=compact&hide=html" alt="bionboy" /></p>
+<p align="left"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bionboy&layout=compact&hide=html" alt="bionboy" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bionboy&show_icons=true" alt="bionboy" /></p>
 
