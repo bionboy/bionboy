@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently a **Master Student** and **Teachers Assistant** at UofL
 
-- 🌱 I’m currently learning **Pytorch Lightning**
+- 🌱 I’m currently learning **Data Mining**
 
 - 👯 I’m looking to collaborate on **anything**
 
-- 🤝 I’m looking for help with **a machine learning career**
+- 🤝 I’m looking for help with **a machine learning / data science career**
 
 - 👨‍💻 All of my projects are available at [lukefloden.me](http://www.lukefloden.me)
 
