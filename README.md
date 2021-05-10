@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **Data Mining**
 
-- 👯 I’m looking to collaborate on **anything**
+- 👯 I’m looking to collaborate on **tools, visualizations, data exploration, ...**
 
-- 🤝 I’m looking for help with **a machine learning / data science career**
+- 🤝 I’m looking for **A data science career**
 
 - 👨‍💻 All of my projects are available at [lukefloden.me](http://www.lukefloden.me)
 
