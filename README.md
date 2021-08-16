@@ -32,9 +32,9 @@
 [Deep learning on "the iris data-set" in Julia](https://dev.to/bionboy/deep-learning-on-the-iris-data-set-in-julia-3pbe)
 <!-- BLOG-POST-LIST:END -->
 
-<p>
+<!-- <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bionboy&layout=compact&hide=html" alt="bionboy" />
-</p>
+</p> -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bionboy&show_icons=true" alt="bionboy" /></p>
 
