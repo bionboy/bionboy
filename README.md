@@ -5,23 +5,23 @@
 <h1 align="center">Hi 👋, I'm Luke</h1>
 <h3 align="center">A passionate (machine) learner from Louisville, Kentucky</h3>
 
-- 🔭 I’m currently a **Master Student** and **Teachers Assistant** at UofL
+- 🔭 I’m a recent **MEng Graduate** and **Teachers Assistant** from UofL
 
-- 🌱 I’m currently learning **Data Mining**
+- 🌱 I’m currently learning **ML Piplines (Sagemaker)**
 
-- 👯 I’m looking to collaborate on **tools, visualizations, data exploration, ...**
+- 👯 I’m looking to collaborate on **Productionizing ML Pipelines, NLP, Image Classification/Segmentation, Image2Text/Text2Image Generation, etc.**
 
-- 🤝 I’m looking for **A data science career**
+- 🤝 I’m looking for a role as a **ML Engineer**
 
 - 👨‍💻 All of my projects are available at [lukefloden.me](http://www.lukefloden.me)
 
 - 📝 I might write on [dev.to](https://dev.to/bionboy)
 
-- 💬 Ask me about **C code for Operating systems (Im a TA for that class)**
+<!-- - 💬 Ask me about **C code for Operating systems (Im a TA for that class)** -->
 
 - 📫 How to reach me **luke.floden@gmail.com**
 
-- ⚡ Fun fact **My music has been distributed on cassette tapes**
+- ⚡ Fun fact **My music has been distributed on cassette tapes!**
 
 ### Blogs posts
 <a href="https://dev.to/bionboy">
