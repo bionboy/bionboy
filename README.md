@@ -7,7 +7,7 @@
 
 - 🔭 I’m a recent **MEng Graduate** and **Teachers Assistant** from UofL
 
-- 🌱 I’m currently learning **ML Piplines (Sagemaker)**
+- 🌱 I’m currently learning **Model memory requirement reduction techniques**
 
 - 👯 I’m looking to collaborate on **Productionizing ML Pipelines, NLP, Image Classification/Segmentation, Image2Text/Text2Image Generation, etc.**
 
