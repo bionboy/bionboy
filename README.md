@@ -1,27 +1,12 @@
 <header>
  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.10.1/devicon.min.css">
 </header>
-  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bionboy" alt="bionboy" /> </p>
+</div>
+
 <h1 align="center">Hi 👋, I'm Luke</h1>
-<h3 align="center">A passionate (machine) learner from Louisville, Kentucky</h3>
 
-- 🔭 I’m a recent **MEng Graduate** and **Teachers Assistant** from UofL
 
-- 🌱 I’m currently learning **Model memory requirement reduction techniques**
-
-- 👯 I’m looking to collaborate on **Productionizing ML Pipelines, NLP, Image Classification/Segmentation, Image2Text/Text2Image Generation, etc.**
-
-- 🤝 I’m looking for a role as a **ML Engineer**
-
-- 👨‍💻 All of my projects are available at [lukefloden.me](http://www.lukefloden.me)
-
-- 📝 I might write on [dev.to](https://dev.to/bionboy)
-
-<!-- - 💬 Ask me about **C code for Operating systems (Im a TA for that class)** -->
-
-- 📫 How to reach me **luke.floden@gmail.com**
-
-- ⚡ Fun fact **My music has been distributed on cassette tapes!**
 
 ### Blogs posts
 <a href="https://dev.to/bionboy">
@@ -47,4 +32,3 @@
 <a href="https://fb.com/luke floden" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="luke floden" height="30" width="30" /></a>
 <a href="https://instagram.com/fried__plantains" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="fried__plantains" height="30" width="30" /></a>
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bionboy" alt="bionboy" /> </p>
