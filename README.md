@@ -6,7 +6,9 @@
 
 <h1 align="center">Hi 👋, I'm Luke</h1>
 
-
+<p>
+ Accomplished Full-Stack Software Engineer with a passion for enhancing user experiences and an ambition to transition into a role with greater UX/UI Design impact. Adept at marrying technical acumen with design sensibility to create intuitive interfaces. Eager to leverage my Full-Stack experience to drive user-centric design solutions.
+</p>
 
 ### Blogs posts
 <a href="https://dev.to/bionboy">
