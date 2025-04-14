@@ -5,11 +5,17 @@
 
 <h1 align="center">Hi 👋, I'm Luke</h1>
 
-<p>
-  Accomplished Full-Stack Software Engineer with a passion for enhancing user experiences and ambition to have greater UX/UI design impact.
-  Blending technical solutions with design sensibility to create intuitive UI.
-  Eager to leverage my Full-Stack experience to drive user-centric design solutions.
-</p>
+<h2>Me</h2>
+<p>Check out my personal/portfolio site: <a href="https://lukefloden.me">lukefloden.me</a></p>
+<h2>Career</h2>
+<ul>
+ <li>Experience | 5+ years with startups in the healthcare and sustainability sectors</li>
+ <li>Skill Highlight | 3+ years building web applications with React/Laravel</li>
+ <li>Leadership | Project lead of distributed teams and mentoring junior developers</li>
+ <li>Languages | Typescript, React, SvelteKit, Laravel</li>
+ <li>Tools | Sentry, Fly.io, Vercel, AWS, GCP</li>
+</ul>
+
 
 <!-- ### Blogs posts -->
 <!-- <a href="https://dev.to/bionboy">
