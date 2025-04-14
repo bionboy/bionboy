@@ -6,7 +6,14 @@
 <h1 align="center">Hi 👋, I'm Luke</h1>
 
 <h2>Me</h2>
-<p>Check out my personal/portfolio site: <a href="https://lukefloden.me">lukefloden.me</a></p>
+<p>Check out my personal/portfolio site: 
+ <a href="https://lukefloden.me">
+  <em>
+  lukefloden.me
+  </em>
+ </a>
+</p>
+
 <h2>Career</h2>
 <ul>
  <li>Experience | 5+ years with startups in the healthcare and sustainability sectors</li>
