@@ -9,7 +9,7 @@
 <p>Check out my personal/portfolio site: 
  <a href="https://lukefloden.com">
   <em>
-  lukefloden.me
+  lukefloden.com
   </em>
  </a>
 </p>
