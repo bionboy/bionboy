@@ -7,7 +7,7 @@
 
 <h2>Me</h2>
 <p>Check out my personal/portfolio site: 
- <a href="https://lukefloden.me">
+ <a href="https://lukefloden.com">
   <em>
   lukefloden.me
   </em>
