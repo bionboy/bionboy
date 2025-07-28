@@ -5,14 +5,15 @@
 
 <h1 align="center">Hi 👋, I'm Luke</h1>
 
+> [!TIP]
+> Check out my personal/portfolio site: <a href="https://lukefloden.com"><em>lukefloden.com</em></a>
+
 <h2>Me</h2>
-<p>Check out my personal/portfolio site: 
- <a href="https://lukefloden.com">
-  <em>
-  lukefloden.com
-  </em>
- </a>
-</p>
+<p>Web designer/developer with 5+ years of full-stack engineering, specializing in creating seamless user experiences.</p>
+<p>My real passion is in honing a consistent and thoughtful user experience. From the design, implementation, performance aspects; whatever it takes to make the experience feel frictionless.</p>
+<p>I bridge the gap between design and development, ensuring pixel-perfect implementations while maintaining performance and accessibility. My background in full-stack development gives me a unique perspective on creating designs that are both beautiful and technically feasible.</p>
+
+<p>I work well with tradeoffs, and I am not afraid to make tough decisions. I've worked with startups for most of my career, acting not only as a developer, but taking on product ownership and project management responsibilities.</p>
 
 <h2>Career</h2>
 <ul>
